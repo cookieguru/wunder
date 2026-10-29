@@ -1,0 +1,44 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="128dp"
+    android:height="128dp"
+    android:viewportWidth="128"
+    android:viewportHeight="128">
+    <group>
+        <path
+            android:strokeColor="#FF202939"
+            android:strokeWidth="4"
+            android:strokeLineCap="round"
+            android:pathData="M37 92H53.75C55.2 92 56.6 91.47 57.7 90.52L62.02 86.73C63.16 85.74 64.84 85.74 65.98 86.73L70.3 90.52C71.4 91.47 72.8 92 74.25 92H91"/>
+        <group>
+            <clip-path
+                android:pathData="M0 9H128V86H75.05C74.37 86 73.71 85.77 73.18 85.34L67.75 81C65.56 79.25 62.44 79.25 60.25 81L54.82 85.34C54.29 85.77 53.63 86 52.95 86H0V9Z"/>
+            <group>
+                <path
+                    android:fillColor="#FFF8AF18"
+                    android:pathData="M61 37C61 35.34 62.34 34 64 34 65.66 34 67 35.34 67 37V51C67 52.66 65.66 54 64 54 62.34 54 61 52.66 61 51V37Z"/>
+                <path
+                    android:fillColor="#FFF8AF18"
+                    android:pathData="M93.7 48.06C94.87 46.89 96.77 46.89 97.94 48.06 99.11 49.23 99.11 51.13 97.94 52.3L88.04 62.2C86.87 63.37 84.97 63.37 83.8 62.2 82.63 61.03 82.63 59.13 83.8 57.96L93.7 48.06Z"/>
+                <path
+                    android:fillColor="#FFF8AF18"
+                    android:pathData="M109 79C110.66 79 112 80.34 112 82 112 83.66 110.66 85 109 85H95C93.34 85 92 83.66 92 82 92 80.34 93.34 79 95 79H109Z"/>
+                <path
+                    android:fillColor="#FFF8AF18"
+                    android:pathData="M97.94 111.7C99.11 112.87 99.11 114.77 97.94 115.94 96.77 117.11 94.87 117.11 93.7 115.94L83.8 106.04C82.63 104.87 82.63 102.97 83.8 101.8 84.97 100.63 86.87 100.63 88.04 101.8L97.94 111.7Z"/>
+                <path
+                    android:fillColor="#FFF8AF18"
+                    android:pathData="M61 113C61 111.34 62.34 110 64 110 65.66 110 67 111.34 67 113V127C67 128.66 65.66 130 64 130 62.34 130 61 128.66 61 127V113Z"/>
+                <path
+                    android:fillColor="#FFF8AF18"
+                    android:pathData="M39.96 101.8C41.13 100.63 43.03 100.63 44.2 101.8 45.37 102.97 45.37 104.87 44.2 106.04L34.3 115.94C33.13 117.11 31.23 117.11 30.06 115.94 28.89 114.77 28.89 112.87 30.06 111.7L39.96 101.8Z"/>
+                <path
+                    android:fillColor="#FFF8AF18"
+                    android:pathData="M33 79C34.66 79 36 80.34 36 82 36 83.66 34.66 85 33 85H19C17.34 85 16 83.66 16 82 16 80.34 17.34 79 19 79H33Z"/>
+                <path
+                    android:fillColor="#FFF8AF18"
+                    android:pathData="M44.2 57.96C45.37 59.13 45.37 61.03 44.2 62.2 43.03 63.37 41.13 63.37 39.96 62.2L30.06 52.3C28.89 51.13 28.89 49.23 30.06 48.06 31.23 46.89 33.13 46.89 34.3 48.06L44.2 57.96Z"/>
+            </group>
+        </group>
+    </group>
+</vector>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="app_bg">#FF17181A</color>
+    <color name="widget_bg">#F21E1F22</color>
+    <color name="widget_fg">#FFE6E7EA</color>
+    <color name="widget_muted">#FFA3A8B0</color>
+    <color name="widget_hi">#FFFF6B4A</color>
+    <color name="widget_lo">#FF56B4E9</color>
+    <color name="widget_pop">#FF56B4E9</color>
+    <color name="widget_divider">#2EFFFFFF</color>
+    <color name="widget_stale">#FFFFD23F</color>
+</resources>

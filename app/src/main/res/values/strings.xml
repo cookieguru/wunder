@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wunder</string>
+    <string name="widget_name">Weather</string>
+    <string name="widget_description">Current conditions, today\'s high and low, and chance of rain</string>
+</resources>

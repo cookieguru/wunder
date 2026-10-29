@@ -1,0 +1,16 @@
+# Gradle and Android build output
+.gradle/
+.kotlin/
+build/
+local.properties
+*.apk
+*.aab
+
+# Release signing: keep these safe outside the repo (CI reads them from secrets)
+*.jks
+*.keystore
+keystore.properties
+
+# IDE
+.idea/
+*.iml
